@@ -1,5 +1,3 @@
-package TPMODUL3;
-
 public class Waiters implements Runnable {
     private final int orderQty;
     private final int customerID;

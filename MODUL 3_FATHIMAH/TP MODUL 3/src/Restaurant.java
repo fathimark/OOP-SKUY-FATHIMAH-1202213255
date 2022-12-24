@@ -1,4 +1,3 @@
-package TPMODUL3;
 public class Restaurant implements Runnable {
 
     private boolean waitingForPickup = false;
