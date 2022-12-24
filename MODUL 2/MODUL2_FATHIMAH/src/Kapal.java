@@ -8,7 +8,7 @@ public class Kapal extends TransportasiAir {
 
     @Override
     public void informasi(){
-        System.out.println("Transportasi Air jenis Kapal dengan kursi berjumlah " + jumlahKursi +  "ditetapkan dengan biaya sebesar Rp. " + biaya);
+        System.out.println("Transportasi Air jenis Kapal dengan kursi berjumlah " + jumlahKursi +  " ditetapkan dengan biaya sebesar Rp. " + biaya);
     }
 
     @Override
