@@ -26,7 +26,6 @@ public class Main {
         System.out.println("Input must be integer");
 
     }
-
     input.close();
 }
 
